@@ -1,0 +1,3 @@
+module.exports=[78141,a=>{"use strict";var b=a.i(87924);function c({error:a,reset:c}){return(0,b.jsxs)("main",{className:"py-24 text-center",children:[(0,b.jsx)("h1",{className:"text-3xl font-bold",children:"Something went wrong"}),(0,b.jsx)("p",{className:"mt-2 text-slate-600 dark:text-slate-300",children:a.message}),(0,b.jsx)("button",{className:"mt-6 rounded-md bg-primary px-4 py-2 text-white",onClick:()=>c(),children:"Try again"})]})}a.s(["default",()=>c])}];
+
+//# sourceMappingURL=app_error_tsx_fee1d43b._.js.map
