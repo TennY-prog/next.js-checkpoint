@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/PROGRESSIVE/Documents/GoMyCode/portfolio-website/portfolio/app/about/page.tsx"],"sourcesContent":["export const metadata = {\n  title: 'About'\n};\n\nexport default function AboutPage() {\n  return (\n    <main className=\"py-12\">\n      <h1 className=\"text-3xl font-bold\">About</h1>\n      <p className=\"mt-4 max-w-2xl text-slate-600 dark:text-slate-300\">\n        I build fast, accessible, and maintainable web applications. My focus is on clean\n        architectures, performance, and delightful user experiences.\n      </p>\n    </main>\n  );\n}\n"],"names":[],"mappings":";;;;;;;;AAAO,MAAM,WAAW;IACtB,OAAO;AACT;AAEe,SAAS;IACtB,qBACE,8OAAC;QAAK,WAAU;;0BACd,8OAAC;gBAAG,WAAU;0BAAqB;;;;;;0BACnC,8OAAC;gBAAE,WAAU;0BAAoD;;;;;;;;;;;;AAMvE"}}]
-}

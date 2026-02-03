@@ -1,3 +1,0 @@
-module.exports=[70864,a=>{a.n(a.i(33290))},65897,a=>{a.n(a.i(96647))},2894,a=>{a.n(a.i(66188))},13718,a=>{a.n(a.i(85523))},18198,a=>{a.n(a.i(45518))},62212,a=>{a.n(a.i(66114))},29691,a=>{"use strict";var b=a.i(7997);function c(){return(0,b.jsxs)("main",{className:"py-12",children:[(0,b.jsx)("h1",{className:"text-3xl font-bold",children:"About"}),(0,b.jsx)("p",{className:"mt-4 max-w-2xl text-slate-600 dark:text-slate-300",children:"I build fast, accessible, and maintainable web applications. My focus is on clean architectures, performance, and delightful user experiences."})]})}a.s(["default",()=>c,"metadata",0,{title:"About"}])}];
-
-//# sourceMappingURL=_58348486._.js.map
